@@ -44,6 +44,10 @@ menu:
         name: tags
         theme: solid
         link: /tags
+    Bangumi:
+        name: 追番列表
+        theme: solid
+        link: bangumis/index.html
 
 # Side info card
 card:
