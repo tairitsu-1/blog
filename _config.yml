@@ -172,3 +172,9 @@ game: # 游戏设置，仅支持source: bgmv0
   extra_options:
     key: value
   coverMirror:
+
+
+  admin:
+  username: tairitsu
+  password_hash: be121740bf988b2225a313fa1f107ca1
+  secret: tairitsu
