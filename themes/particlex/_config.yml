@@ -44,6 +44,10 @@ menu:
         name: tags
         theme: solid
         link: /tags
+    Photo:
+        name: "摄影"
+        theme: solid
+        link: /photo
     Bangumi:
         name: 追番列表
         theme: solid
